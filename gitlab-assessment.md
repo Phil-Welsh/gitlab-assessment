@@ -76,7 +76,7 @@ Server-side:
 
 Hi there, aspiring Git-gurus!
 
-My name is Phil Welsh, and I'm a technical writer at Gitlab. In this tutorial, I'll be demonstrating how to use Git to implement a new feature/branch without affecting the main branch. It's important to not affect the main branch because the other software engineers on your team are working off that main branch.
+My name is Phil Welsh, and I'm a technical writer at Gitlab. In this tutorial, I'll be demonstrating how to use Git to implement a new feature/branch without affecting the main branch. It's important to not affect the main branch because the other software engineers on your team are working on it too!
 
 This tutorial assumes you've already cloned the git repo to your local computer. If you need help with that, please check out this documentation first: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
