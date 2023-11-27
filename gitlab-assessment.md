@@ -26,6 +26,10 @@ fi
 0 * * * * /path/to/process_users.sh
 ````
 
+Admittedly, I ran out of time on this one. The code here works, but I need to add the portions that check for a change in the checksum, adds a line to `user_changes`, and overwrites the old checksum.
+
+This was a fun project and I learned a lot. I apologize that I wasn't able to get it fully working, but I give it my all, and I'd like to be cognizant of time.
+
 ## Question #2
 
 The web application latency could be caused by several reasons, including:
