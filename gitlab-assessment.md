@@ -37,7 +37,7 @@ The web application latency could be caused by several reasons, including:
 - High CPU usage
 - Application bottlenecks
 - Geographic latency
-- Non-optemized queries
+- Non-optimized queries
 - Lack of load balancing
 - Disabled caching
 
